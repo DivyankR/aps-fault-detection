@@ -1,0 +1,12 @@
+artifact 
+logs
+notebook
+prediction
+saved_models
+*.egg-info
+.env
+main.py
+aps_failure_training_set1.csv
+batch_prediction.py
+train.py
+data_dump.py
